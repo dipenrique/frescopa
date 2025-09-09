@@ -12,4 +12,4 @@ Disallow: /blog/caffeine-espresso
 User-agent: OAI-User
 Disallow: /blog/caffeine-espresso
 
-Sitemap: https://www.aemshop.net/sitemap-index.xml
+Sitemap: https://frescopa.coffee/sitemap-index.xml
