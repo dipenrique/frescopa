@@ -5,4 +5,11 @@ Disallow: /enrichment/
 Disallow: /tools/
 Disallow: /plugins/experimentation/
 
+User-agent: GPTBot
+Disallow: /blog/caffeine-espresso
+User-agent: OAI-SearchBot
+Disallow: /blog/caffeine-espresso
+User-agent: OAI-User
+Disallow: /blog/caffeine-espresso
+
 Sitemap: https://www.aemshop.net/sitemap-index.xml
