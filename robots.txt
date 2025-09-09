@@ -6,10 +6,10 @@ Disallow: /tools/
 Disallow: /plugins/experimentation/
 
 User-agent: GPTBot
-Disallow: /blog/caffeine-espresso
+Disallow: /blog/cold-brewing-101
 User-agent: OAI-SearchBot
-Disallow: /blog/caffeine-espresso
+Disallow: /blog/cold-brewing-101
 User-agent: OAI-User
-Disallow: /blog/caffeine-espresso
+Disallow: /blog/cold-brewing-101
 
 Sitemap: https://frescopa.coffee/sitemap-index.xml
