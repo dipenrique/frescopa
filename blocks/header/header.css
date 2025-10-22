@@ -535,3 +535,7 @@ header .announcement-wrapper .default-content-wrapper {
     height: 100%;
   }
 }
+
+header .announcement-wrapper .announcement-wrapper{
+      display:none;
+}
