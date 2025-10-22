@@ -79,6 +79,7 @@
         "hero",
         "article",
         "cards",
+	"carousel",
         "columns",
         "teaser",
         "fragment",
