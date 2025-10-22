@@ -30,7 +30,7 @@
   position: relative;
   width: 100%;
   /* min-height: min(50vw, calc(100dvh - var(--header-height))); */
-  min-height: min(50vw, calc(100dvh));
+  min-height: min(50vw, calc(50dvh));
 }
 
 .carousel .carousel-slide:has(.carousel-slide-content[data-align='center']) {
