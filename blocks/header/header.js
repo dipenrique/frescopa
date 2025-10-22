@@ -232,13 +232,13 @@ export default async function decorate(block) {
   const excludeMiniCartFromPaths = ['/checkout'];
 
   const minicart = document.createRange().createContextualFragment(`
-     <div class="minicart-wrapper nav-tools-wrapper">
+     <div class="minicart-wrapper nav-tools-wrapper" style="display: none;">
        <button type="button" class="nav-cart-button" aria-label="Cart"></button>
        <div class="minicart-panel nav-tools-panel"></div>
      </div>
    `);
 
-  // navTools.append(minicart);
+  navTools.append(minicart);
 
   const minicartPanel = navTools.querySelector('.minicart-panel');
 
